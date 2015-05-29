@@ -101,13 +101,16 @@ $ sudo yum groupinstall 'Development Tools'
 
 **Compilar:**
 
-
+Descargar codigo fuente
 ```
-# Descargar codigo fuente
 $ wget http://nodejs.org/dist/v0.12.4/node-v0.12.4.tar.gz
-# Descomprimir
+```
+Descomprimir
+```
 $ tar -zxf node-v0.12.4.tar.gz && cd node-v0.12.4
-#compilar
+```
+Compilar
+```
 $ ./configure
 $ make
 $ sudo make install
