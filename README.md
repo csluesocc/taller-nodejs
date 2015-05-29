@@ -1,6 +1,8 @@
 Taller Node.js - [CSHL](http://cshluesocc.org)
 =============================================
 
+[![Join the chat at https://gitter.im/csluesocc/taller-nodejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/csluesocc/taller-nodejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #Instalación
 
 ##Desde repositorios
