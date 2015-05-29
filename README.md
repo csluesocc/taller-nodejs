@@ -83,7 +83,7 @@ Si prefieres puedes compilar nodejs desde su código fuente, acá las instruccio
 * GNU Make >= 3.81
 * libexecinfo (FreeBSD and OpenBSD only)
 
-Asumiendo que tienes instalado python (Que normalmente viene por defecto en las distros GNU/Linux), para instalar las utilidades para podemos hacerlo de la siguiente manera:
+Asumiendo que tienes instalado python (Que normalmente viene por defecto en las distros GNU/Linux), para instalar las utilidades podemos hacerlo de la siguiente manera:
 
 **Debian y derivados**
 
