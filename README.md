@@ -1,6 +1,8 @@
 Taller Node.js - [CSHL](http://cshluesocc.org)
 =============================================
 
+[![Join the chat at https://gitter.im/csluesocc/taller-nodejs](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/csluesocc/taller-nodejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #Instalación
 
 ##Desde repositorios
@@ -99,13 +101,16 @@ $ sudo yum groupinstall 'Development Tools'
 
 **Compilar:**
 
-
+Descargar codigo fuente
 ```
-# Descargar codigo fuente
 $ wget http://nodejs.org/dist/v0.12.4/node-v0.12.4.tar.gz
-# Descomprimir
+```
+Descomprimir
+```
 $ tar -zxf node-v0.12.4.tar.gz && cd node-v0.12.4
-#compilar
+```
+Compilar
+```
 $ ./configure
 $ make
 $ sudo make install
