@@ -23,8 +23,5 @@ node_modules
 .bower-*/
 .idea/
 *~
-*.log
-node_modules
-
 vendor/
 .env
